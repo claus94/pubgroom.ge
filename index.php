@@ -1,3 +1,6 @@
 <?php
 
-echo: 'Lazare:) :D'
+echo "Lazare :) :D:D";
+
+
+?>
